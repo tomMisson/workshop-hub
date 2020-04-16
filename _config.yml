@@ -34,6 +34,7 @@ theme: just-the-docs
 theme: just-the-docs
 color_scheme: "dark"
 search_enabled: true
+heading_anchors: false
 search_tokenizer_separator: /[\s/]+/
 
 aux_links:
