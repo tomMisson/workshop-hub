@@ -11,7 +11,7 @@ helloHackers is Manchester Metropolitain's hackathon society founded in 2018 by 
 
 ![hello hackers logo](https://hackquarantine.com/assets/img/partnered_socs/hellohackers.png) 
 
-Currently helloHackers runs courses to non-STEM students and various talks from professionals in industry. 
+Currently helloHackers runs courses to non-STEM students and various talks from professionals in industry. To follow what helloHackers are up to, check out our [twitter 🐦](https://twitter.com/hellohackerssoc)
 
 Please find a list of the societies workshops created by me below:
 
