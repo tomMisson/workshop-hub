@@ -18,21 +18,31 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Workshops and talks 💬
+email: 11tmisson@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  You can find all talks, workshops and other material that I deliver right here! 
+  Some of my content will be for the helloHackers Society and other specific groups but your more than welcome to take this content and adapt it! 
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://workshops.tommisson.uk" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: thomas_misson
+github_username:  tomMisson
+theme: just-the-docs
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+theme: just-the-docs
+color_scheme: "dark"
+search_enabled: true
+search_tokenizer_separator: /[\s/]+/
+
+aux_links:
+  "Twitter":
+    - https://twitter.com/thomas_misson
+  "GitHub" :
+    - https://github.com/tomMisson/
+
+footer_content: "Copyright &copy; Tom Misson - All workshop content is CC BY-NC-SA"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
