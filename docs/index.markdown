@@ -15,7 +15,7 @@ For the Twilio content, I am a [Twilio Champion](https://www.twilio.com/champion
 
 ## Current workshops
 
-- 📞 Twilio Intro (coming soon!) 
+- [📞 Twilio Workshops](/twilio/)
 - [👋 helloHackers Workshops](/hellohackers/)
 - 🧐 Other stuff (suggestions?)
 
