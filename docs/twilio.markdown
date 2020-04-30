@@ -8,6 +8,8 @@ tags: Twilio, Tom, Misson, Champion, Hackathon, Introduction, How to, Voice, sms
 # Twilio 
 
 This series of workshop aims to cover the basics of API's and how you can use Twilio to empower your project to reach people in a different format. 
+  
+![Twilio logo](https://www.twilio.com/docs/static/company/img/logos/red/twilio-logo-red.08d8d859a.png)
 
 _**Videos coming soon**_
 
