@@ -21,6 +21,6 @@ This workshop focuses on how to get started with Twilio's programable voice and 
 ## 102 - Who are you? 
 A workshop all about the different methods of authentication and validation. From simple SMS based two factor authentication, to email verification, Authentication app code generation and phone number look-up.
 
-- [Slides: Twilio 102 - Who are you]()
+- [Slides: Twilio 102 - Who are you](https://docs.google.com/presentation/d/1l1axzwpBViccTNtkQD2nkHFTuD90G07Qin__Us0pDvY/edit?usp=sharing)
 - [Code repo](https://github.com/tomMisson/Twilio-102)
 - [Video (Coming soon!)]()
