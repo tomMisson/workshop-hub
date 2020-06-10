@@ -41,8 +41,10 @@ aux_links:
     - https://twitter.com/thomas_misson
   "GitHub" :
     - https://github.com/tomMisson/
+  "Blog" :
+    - https://blog.tomMisson.uk
 
-footer_content: "Copyright &copy; Tom Misson - All workshop content is CC BY-NC-SA"
+footer_content: "Copyright &copy; [Tom Misson](https://tommisson.uk) - All workshop content is CC BY-NC-SA"
 
 plugins:
   - "jekyll-github-metadata"
