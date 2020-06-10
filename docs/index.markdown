@@ -17,9 +17,10 @@ For the Twilio content, I am a [Twilio Champion](https://www.twilio.com/champion
 
 - [📞 Twilio Workshops](/twilio/)
 - [👋 helloHackers Workshops](/hellohackers/)
+- [⭐Developing developers](/developing-developers/)
 - 🧐 Other stuff (suggestions?)
 
 
 ## Wanting to get in touch with me? 
 
-Feel free to drop me a DM on my [twitter](https://twitter.com/thomas_misson) or alternatively, email me 📨 [11tmisson@gmail.com](mailto://11tmisson@gmail.com)
+Feel free to drop me a DM on my [twitter](https://twitter.com/thomas_misson) or alternatively, email me 📨 [hi@tommisson.uk](mailto://hi@tommisson.uk)
